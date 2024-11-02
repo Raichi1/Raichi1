@@ -1,3 +1,9 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Raichi1.Raichi1" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Renzo+Espiritu⭐!;" />
+</h1>
+
 # 💫 About Me:
 🌟 Data Science & Software Engineering Enthusiast | Competitive Programming Advocate<br><br>Hello! I'm a Computer Science student at the Peruvian University of Applied Sciences (UPC), currently in my 8th semester. My journey has been focused on Data Analysis, Data Science, and Software Development, areas where I aim to create impactful, data-driven solutions.<br><br>I'm an active member of the university's competitive programming group, sharpening my problem-solving skills and exploring advanced algorithms. My projects often revolve around machine learning, neural networks, and recommendation systems, blending my passion for analytics with practical, scalable software.
 
